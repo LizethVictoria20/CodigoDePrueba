@@ -6,3 +6,5 @@
     
 )
 (miPrimerVar 2 3)
+
+(define newVar "Holis")
