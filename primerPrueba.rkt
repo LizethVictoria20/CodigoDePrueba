@@ -21,3 +21,8 @@
 )
 
 (multiplicacion (read)(read))
+
+(define (division a b )
+    (/ a b)
+)
+(division 4 2)
